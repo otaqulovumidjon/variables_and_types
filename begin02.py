@@ -5,4 +5,4 @@ a = 7
 b = 3
 
 # Print the difference between 'a' and 'b'.
-print(a - b)
+print(a - b) 
